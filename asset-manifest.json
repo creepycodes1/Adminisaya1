@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/creepycodes1/Adminisaya1.git/static/css/main.627a3f13.css",
+    "main.js": "/creepycodes1/Adminisaya1.git/static/js/main.eed0aded.js",
+    "static/js/787.44a75e84.chunk.js": "/creepycodes1/Adminisaya1.git/static/js/787.44a75e84.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/creepycodes1/Adminisaya1.git/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/creepycodes1/Adminisaya1.git/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/creepycodes1/Adminisaya1.git/index.html",
+    "main.627a3f13.css.map": "/creepycodes1/Adminisaya1.git/static/css/main.627a3f13.css.map",
+    "main.eed0aded.js.map": "/creepycodes1/Adminisaya1.git/static/js/main.eed0aded.js.map",
+    "787.44a75e84.chunk.js.map": "/creepycodes1/Adminisaya1.git/static/js/787.44a75e84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.627a3f13.css",
+    "static/js/main.eed0aded.js"
+  ]
+}
